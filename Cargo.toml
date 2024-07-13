@@ -1,0 +1,10 @@
+[package]
+name = "fofc-rs"
+version = "0.1.0"
+edition = "2021"
+description = "A zip-like container that allows"
+authors = ["Benton Johnson <liondadev@gmail.com>"]
+
+[dependencies]
+byteorder = "1.5.0"
+log = "0.4.22"
